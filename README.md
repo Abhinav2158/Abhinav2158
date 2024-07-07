@@ -6,7 +6,7 @@ Welcome to my GitHub corner! I'm on a mission to unlock the power of data throug
 
 ## 🔧 Skills & Tools
 - **Languages:** Python, SQL, ,HTML ,JavaScript
-- **Tools:** Git, GitHub, Jupyter Notebook, Pandas, NumPy, Scikit-Learn ,PyCharm
+- **Tools:** Git, GitHub, Jupyter Notebook, Pandas, NumPy, Scikit-Learn ,PyCharm ,Streamlit ,Flask
 - **Interests:** Machine Learning, Data Analysis, Predictive Modeling, Artificial Intelligence , Deep Learning
 
 ## 📫 Connect with Me
